@@ -13,3 +13,4 @@ Puzzle 3
     A is a Knight
     B is a Knave
     C is a Knight
+I am facing some issues with problem 2 of the assignment 2 that is traffic.py. For some reason I am unable to load the gtsrb dataset to the code which I have written for training and testing the data. I contacted every mentor but the problem is still persistent. I would need some more time to submit that problem.
