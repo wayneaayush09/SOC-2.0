@@ -26,8 +26,8 @@ knowledge1 = And(
 
 
 knowledge2 = And(
-    Or(AKnight, AKnave),  # A is either a knight or a knave.
-    Or(BKnight, BKnave),  # B is either a knight or a knave.
+    Or(AKnight, AKnave),
+    Or(BKnight, BKnave),
     Implication(AKnave, And(AKnave, BKnave)),
 )
 
